@@ -1,7 +1,6 @@
 * {
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
 }
 
 html{
@@ -14,6 +13,10 @@ a {
 }
 
 /**Header**/
+nav {
+	background-color: #252525;
+	
+}
 .home {
     background-repeat: no-repeat;
     padding-bottom: 40%;
