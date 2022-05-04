@@ -54,6 +54,7 @@ b{
 }
 ul {
     list-style: none;
-	text-align: justify;
 }
-
+.btn{
+	background-color: #FF0000;
+}
