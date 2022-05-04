@@ -24,10 +24,23 @@ nav {
 	color: white;
 	padding-top: 250px;
 	padding-bottom: 250px;
+}
+.career{
+	display: flex;
+	align-items: center;
+  	justify-content: center;
 
 }
 .badge{
-	background-color: #FF0000;
+	opacity: 0.4;
+	filter: blur(4px);
+	border-radius: 15px;
+	padding: 10px;
+	height: 3rem;
+	width: 25rem;
+}
+.showcase{
+	position: absolute;
 }
 b{
 	color: #FF0000;
