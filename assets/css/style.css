@@ -18,5 +18,11 @@ nav {
 }
 .home {
     background-repeat: no-repeat;
-    padding-bottom: 40%;
+    padding-bottom: 20%;
+}
+.caption-header{
+	height: 100%;
+}
+.caption-header{
+	padding-top: 20%;
 }
