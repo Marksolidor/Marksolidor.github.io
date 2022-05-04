@@ -16,20 +16,19 @@ a {
 nav {
 	background-color: #252525;
 }
-.home {
-    background-repeat: no-repeat;
-    padding-bottom: 20%;
-}
 .caption-header{
+	background-color: #272121;
+	background-image: url(../images/bg_image_1.jpg);
+	background-size: cover;
+	background-blend-mode: multiply;
 	color: white;
-	height: 100%;
+	padding-top: 250px;
+	padding-bottom: 250px;
+
 }
 .badge{
 	background-color: #FF0000;
 }
 b{
 	color: #FF0000;
-}
-.caption-header{
-	padding-top: 20%;
 }
