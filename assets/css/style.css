@@ -45,6 +45,7 @@ nav {
 b{
 	color: #FF0000;
 }
+
 /**About**/
 .about{
 	padding-top: 5rem;
@@ -57,4 +58,9 @@ ul {
 }
 .btn{
 	background-color: #FF0000;
+}
+
+/**Services**/
+.services{
+	padding-top: 5rem;
 }
