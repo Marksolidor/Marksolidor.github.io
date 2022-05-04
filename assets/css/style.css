@@ -21,7 +21,14 @@ nav {
     padding-bottom: 20%;
 }
 .caption-header{
+	color: white;
 	height: 100%;
+}
+.badge{
+	background-color: #FF0000;
+}
+b{
+	color: #FF0000;
 }
 .caption-header{
 	padding-top: 20%;
