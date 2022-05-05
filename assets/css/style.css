@@ -11,7 +11,11 @@ a {
 	text-decoration: none;
 	outline: none;
 }
-
+body{
+	background-image: url(../images/pattern.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 /**Header**/
 nav {
 	background-color: #252525;
