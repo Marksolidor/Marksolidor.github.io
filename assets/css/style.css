@@ -65,7 +65,12 @@ ul {
 	padding-top: 5rem;
 }
 
-/**About**/
+/**Portfolio**/
 .portfolio{
+	padding-top: 5rem;
+}
+
+/**About**/
+.contact{
 	padding-top: 5rem;
 }
