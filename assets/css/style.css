@@ -27,6 +27,7 @@ nav {
   background-image: url(../images/bg_image_1.jpg);
   background-size: cover;
   background-blend-mode: multiply;
+  background-attachment: fixed;
   color: white;
   padding-top: 270px;
   padding-bottom: 270px;
@@ -37,12 +38,16 @@ nav {
   justify-content: center;
 }
 .badge {
-  opacity: 0.4;
-  filter: blur(4px);
+  background-color: #ff0000;
+  opacity: 0.5;
+  filter: blur(6px);
   border-radius: 15px;
   padding: 10px;
   height: 3rem;
   width: 25rem;
+}
+.badge:empty{
+  display: unset;
 }
 .showcase {
   position: absolute;
@@ -70,8 +75,8 @@ ul {
   padding-top: 5rem;
 }
 
-/**Portfolio**/
-.portfolio {
+/**Projects**/
+.projects {
   padding-top: 5rem;
 }
 
@@ -125,5 +130,5 @@ ul {
 
 /*agregado por jgonzalezcov*/
 .tu_commit {
-  color: #189247;
+  color: whitesmoke;
 }
