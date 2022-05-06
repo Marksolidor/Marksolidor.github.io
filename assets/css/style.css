@@ -19,14 +19,17 @@ body {
 nav {
   background-color: #252525;
 }
+.dropdown-menu{
+  background-color: #252525;
+}
 .caption-header {
   background-color: #272121;
   background-image: url(../images/bg_image_1.jpg);
   background-size: cover;
   background-blend-mode: multiply;
   color: white;
-  padding-top: 250px;
-  padding-bottom: 250px;
+  padding-top: 270px;
+  padding-bottom: 270px;
 }
 .career {
   display: flex;
@@ -123,5 +126,4 @@ ul {
 /*agregado por jgonzalezcov*/
 .tu_commit {
   color: #189247;
-  font-size: xx-small;
 }
