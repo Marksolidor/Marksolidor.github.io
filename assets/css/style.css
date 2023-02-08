@@ -16,14 +16,14 @@ body {
   background-attachment: fixed;
 }
 
-.btn{
-  box-shadow: 0em 0.2em 0.2em rgba(0, 0.25, 0, 0.25)
+.btn {
+  box-shadow: 0em 0.2em 0.2em rgba(0, 0.25, 0, 0.25);
 }
 /**Header**/
 nav {
   background-color: #252525;
 }
-.dropdown-menu{
+.dropdown-menu {
   background-color: #252525;
 }
 .caption-header {
@@ -50,7 +50,7 @@ nav {
   height: 3rem;
   width: 25rem;
 }
-.badge:empty{
+.badge:empty {
   display: unset;
 }
 .showcase {
@@ -74,6 +74,15 @@ ul {
   background-color: #ff0000;
 }
 
+.contact {
+  padding-top: 5rem;
+}
+
+.img-photo {
+  border-radius: 5%;
+  box-shadow: 0.4em 0.4em 0.4em rgba(0, 0.25, 0, 0.25);
+}
+
 /**Services**/
 .services {
   padding-top: 5rem;
@@ -84,12 +93,7 @@ ul {
   padding-top: 5rem;
 }
 
-/**About**/
-.contact {
-  padding-top: 5rem;
-}
-
-.card-body{
+.card-body {
   box-shadow: 0em 0.4em 0.4em rgba(0, 0.25, 0, 0.25);
 }
 
@@ -136,4 +140,3 @@ ul {
   transform: translate(-50%, -50%);
   text-align: center;
 }
-
